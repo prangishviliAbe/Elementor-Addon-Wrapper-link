@@ -1,6 +1,6 @@
 # Elementor Wrapper Link
 
-![Elementor Wrapper Link](assets/cover.png)
+![Elementor Wrapper Link](assets/cover.jpg)
 
 Unify your elements. Unlock new possibilities.
 
@@ -34,7 +34,7 @@ Elementor Wrapper Link adds a clickable wrapper (section/column/container) link 
 ## How to add the cover image shown above
 
 1. Save the cover image you provided as `cover.png` (or `cover.jpg`).
-2. Upload it to the `assets/` folder in this repository as `assets/cover.png`.
+2. Upload it to the `assets/` folder in this repository as `assets/cover.jpg`.
 3. GitHub will render the image automatically in this README.
 
 ## Developer notes
